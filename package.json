@@ -1,0 +1,18 @@
+{
+  "name": "paystack-nodejs-api",
+  "version": "1.0.0",
+  "description": "A NodeJS wrraper API for Paystack and Firebase CLoud Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paystack"
+  ],
+  "author": "Kolawole Olulana",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^9.12.0",
+    "paystack-api": "^2.0.6"
+  }
+}
